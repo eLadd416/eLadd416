@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eLadd416 / eric
-- 👀 I’m interested in programming, self-improvement, and some specific video games :)
+- 👀 I’m interested in programming, self-improvement, and helping others around me :)
 - 🌱 I’m currently adding on to my knowledge by learning python 
 - 💞️ I’m looking to collaborate on some cool projects to master my craft
 - 📫 How to reach me: eladd416@outlook.com
